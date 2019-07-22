@@ -1,0 +1,10 @@
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: *
+Disallow: /home
+Disallow: /?_escaped_fragment_=/search
+Disallow: /?_escaped_fragment_=/userreg
+Disallow: /?_escaped_fragment_=/resetpassword
+Disallow: /?_escaped_fragment_=/error
+Disallow: /home/start%23!content
