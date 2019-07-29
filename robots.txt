@@ -5,7 +5,8 @@ User-agent: *
 Disallow: /?_escaped_fragment_=/search
 Disallow: /?_escaped_fragment_=/userreg
 Disallow: /?_escaped_fragment_=/resetpassword
-Disallow: /?_escaped_fragment_=/error
+Disallow: /?_escaped_fragment_=/phones/samsung-gem
+Disallow: /%23!/phones/dell-venue
 Disallow: /home/start%23!content
 Disallow: /%23!/error
 
